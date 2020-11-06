@@ -1,3 +1,7 @@
+Using this project to learn the React Hooks system and also some React 17 newness like [{ capture : true} on event listeners](https://reactjs.org/blog/2020/08/10/react-v17-rc.html#fixing-potential-issues)
+
+----- out of the box README ------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
